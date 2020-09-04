@@ -9,7 +9,7 @@ Machine Learning Seminars
 План занятий
 ============
 
-`Вводный семинар<https://github.com/andriygav/MachineLearningSeminars/blob/master/sem1/main.ipynb>`_
+`Вводный семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem1/main.ipynb>`_
 ---------------
 - Семинар:
     - Тереотическая часть:
