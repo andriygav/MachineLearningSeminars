@@ -8,6 +8,7 @@ Machine Learning Seminars
 - `Курс лекций К.В. Воронцова. <http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29>`_
 - `Плейлист лекций и семинаров. <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_ 
 - `Подключится к конференции Zoom. <https://zoom.us/j/95829589904?pwd=eTVZdGpKUnN1Q0hSYlZ3cWpGMGh2UT09>`_ 
+- `Ссылка на оценки. <https://docs.google.com/spreadsheets/d/12_HyzEgygfmjsY835FLugNN5CjUD6746Vi3_zAZPhLk/edit?usp=sharing>`_
 
 Курсовое домашнее задание:
 ==========================
