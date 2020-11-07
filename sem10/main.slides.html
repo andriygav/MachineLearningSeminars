@@ -13202,7 +13202,7 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="&#1055;&#1086;&#1080;&#1089;&#1082;-&#1072;&#1089;&#1086;&#1094;&#1080;&#1072;&#1090;&#1080;&#1074;&#1085;&#1099;&#1093;-&#1087;&#1088;&#1072;&#1074;&#1080;&#1083;">&#1055;&#1086;&#1080;&#1089;&#1082; &#1072;&#1089;&#1086;&#1094;&#1080;&#1072;&#1090;&#1080;&#1074;&#1085;&#1099;&#1093; &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;<a class="anchor-link" href="#&#1055;&#1086;&#1080;&#1089;&#1082;-&#1072;&#1089;&#1086;&#1094;&#1080;&#1072;&#1090;&#1080;&#1074;&#1085;&#1099;&#1093;-&#1087;&#1088;&#1072;&#1074;&#1080;&#1083;">&#182;</a></h1>
+<h1 id="&#1055;&#1086;&#1080;&#1089;&#1082;-&#1072;&#1089;&#1089;&#1086;&#1094;&#1080;&#1072;&#1090;&#1080;&#1074;&#1085;&#1099;&#1093;-&#1087;&#1088;&#1072;&#1074;&#1080;&#1083;">&#1055;&#1086;&#1080;&#1089;&#1082; &#1072;&#1089;&#1089;&#1086;&#1094;&#1080;&#1072;&#1090;&#1080;&#1074;&#1085;&#1099;&#1093; &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;<a class="anchor-link" href="#&#1055;&#1086;&#1080;&#1089;&#1082;-&#1072;&#1089;&#1089;&#1086;&#1094;&#1080;&#1072;&#1090;&#1080;&#1074;&#1085;&#1099;&#1093;-&#1087;&#1088;&#1072;&#1074;&#1080;&#1083;">&#182;</a></h1>
 </div>
 </div>
 </div></section></section><section><section>
@@ -14419,50 +14419,6 @@ frozen vegetables;soup;olive oil --&gt; milk;mineral water
 </pre></div>
 
     </div>
-</div>
-</div>
-
-</div></section><section>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[34]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">key</span> <span class="ow">in</span> <span class="n">rules</span><span class="p">:</span>
-    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">key</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">2</span> <span class="ow">and</span> <span class="nb">len</span><span class="p">(</span><span class="n">rules</span><span class="p">[</span><span class="n">key</span><span class="p">][</span><span class="mi">0</span><span class="p">])</span> <span class="o">&gt;</span> <span class="mi">2</span><span class="p">:</span>
-        <span class="n">phi</span> <span class="o">=</span> <span class="p">[]</span>
-        <span class="n">psi</span> <span class="o">=</span> <span class="p">[]</span>
-        <span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">key</span><span class="p">:</span>
-            <span class="n">phi</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">ind_to_word</span><span class="p">[</span><span class="n">item</span><span class="p">])</span>
-
-        <span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">rules</span><span class="p">[</span><span class="n">key</span><span class="p">][</span><span class="mi">0</span><span class="p">]:</span>
-            <span class="n">psi</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">ind_to_word</span><span class="p">[</span><span class="n">item</span><span class="p">])</span>
-
-        <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;</span><span class="si">{}</span><span class="s1"> --&gt; </span><span class="si">{}</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="s1">&#39;;&#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">phi</span><span class="p">),</span> <span class="s1">&#39;;&#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">psi</span><span class="p">)))</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>chicken;herb &amp; pepper;whole weat flour --&gt; milk;mineral water;pancakes
-french fries;herb &amp; pepper;whole weat flour --&gt; milk;mineral water;pancakes
-mineral water;parmesan cheese;vegetables mix --&gt; frozen vegetables;spaghetti;tomatoes
-escalope;frozen smoothie;salmon --&gt; milk;mineral water;spaghetti
-</pre>
-</div>
-</div>
-
 </div>
 </div>
 
