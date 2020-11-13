@@ -199,7 +199,7 @@ Machine Learning Seminars
         - Пример реальных данных из kaggle.
         - RandomForest.
         - Mixture Of Expert.
-- `Домашнее задание <https://forms.gle/gdVD5zfXLPzBasa16>`_:
+- `Домашнее задание <https://forms.gle/ktqBKToXkbH8rxc49>`_:
     - Рассматривается две выборки: `выборка <https://archive.ics.uci.edu/ml/datasets/Unmanned+Aerial+Vehicle+%28UAV%29+Intrusion+Detection>`_. и `выборка <https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition>`_. Для обоих выборок построить AdaBoost, GradientBoosting, RandomForest, Bagging. Сравнить качество на обоих выборках. Отличается ли результат? Почему?
 
 
