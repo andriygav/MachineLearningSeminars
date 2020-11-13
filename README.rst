@@ -189,4 +189,17 @@ Machine Learning Seminars
         - Обобщенные ассоциативные правила.
 - `Домашнее задание <https://forms.gle/gdVD5zfXLPzBasa16>`_:
     - выполнить анализ ассоциативных правил, которые получены алгоримом FP-growth. Расмоттреть только те правила, которые содержат более 3 элементов
+    
+Композиции классификаторов.
+------------------------------------------------------------------------------
+- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem10/main.ipynb>`_:
+    - Практическая часть:
+        - AdaBoost.
+        - Градиентный бустинг, XGBoost.
+        - Пример реальных данных из kaggle.
+        - RandomForest.
+        - Mixture Of Expert.
+- `Домашнее задание <https://forms.gle/gdVD5zfXLPzBasa16>`_:
+    - Рассматривается две выборки: `выборка <https://archive.ics.uci.edu/ml/datasets/Unmanned+Aerial+Vehicle+%28UAV%29+Intrusion+Detection>`_. и `выборка <https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition>`_. Для обоих выборок построить AdaBoost, GradientBoosting, RandomForest, Bagging. Сравнить качество на обоих выборках. Отличается ли результат? Почему?
+
 
