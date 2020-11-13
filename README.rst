@@ -192,7 +192,7 @@ Machine Learning Seminars
     
 Композиции классификаторов.
 ------------------------------------------------------------------------------
-- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem10/main.ipynb>`_:
+- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem11/main.ipynb>`_:
     - Практическая часть:
         - AdaBoost.
         - Градиентный бустинг, XGBoost.
@@ -200,6 +200,6 @@ Machine Learning Seminars
         - RandomForest.
         - Mixture Of Expert.
 - `Домашнее задание <https://forms.gle/ktqBKToXkbH8rxc49>`_:
-    - Рассматривается две выборки: `выборка <https://archive.ics.uci.edu/ml/datasets/Unmanned+Aerial+Vehicle+%28UAV%29+Intrusion+Detection>`_. и `выборка <https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition>`_. Для обоих выборок построить AdaBoost, GradientBoosting, RandomForest, Bagging. Сравнить качество на обоих выборках. Отличается ли результат? Почему?
+    - Рассматривается две выборки: `выборка <https://archive.ics.uci.edu/ml/datasets/Unmanned+Aerial+Vehicle+%28UAV%29+Intrusion+Detection>`_ и `выборка <https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition>`_. Для обоих выборок построить AdaBoost, GradientBoosting, RandomForest, Bagging. Сравнить качество на обоих выборках. Отличается ли результат? Почему?
 
 
