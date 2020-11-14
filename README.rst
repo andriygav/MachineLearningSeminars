@@ -194,6 +194,7 @@ Machine Learning Seminars
 ------------------------------------------------------------------------------
 - `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem11/main.ipynb>`_:
     - Практическая часть:
+        - DummyEnsemble.
         - AdaBoost.
         - Градиентный бустинг, XGBoost.
         - Пример реальных данных из kaggle.
