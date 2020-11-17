@@ -201,6 +201,6 @@ Machine Learning Seminars
         - RandomForest.
         - Mixture Of Expert.
 - `Домашнее задание <https://forms.gle/ktqBKToXkbH8rxc49>`_:
-    - Рассматривается две выборки: `выборка <https://archive.ics.uci.edu/ml/datasets/Unmanned+Aerial+Vehicle+%28UAV%29+Intrusion+Detection>`_ и `выборка <https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition>`_. Для обоих выборок построить AdaBoost, GradientBoosting, RandomForest, Bagging. Сравнить качество на обоих выборках. Отличается ли результат? Почему?
+    - Рассматривается две выборки: `выборка <https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset>`_ и `выборка <https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition>`_. Для обоих выборок построить AdaBoost, GradientBoosting, RandomForest, Bagging. Сравнить качество на обоих выборках. Отличается ли результат? Почему?
 
 
