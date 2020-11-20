@@ -203,4 +203,15 @@ Machine Learning Seminars
 - `Домашнее задание <https://forms.gle/ktqBKToXkbH8rxc49>`_:
     - Рассматривается две выборки: `выборка <https://archive.ics.uci.edu/ml/datasets/Unmanned+Aerial+Vehicle+%28UAV%29+Intrusion+Detection>`_ и `выборка <https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition>`_. Для обоих выборок построить AdaBoost, GradientBoosting, RandomForest, Bagging. Сравнить качество на обоих выборках. Отличается ли результат? Почему?
 
+# Композиции классификаторов (градиентный бустинг).
+------------------------------------------------------------------------------
+- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem12/main.ipynb>`_:
+    - Практическая часть:
+        - ComBoost.
+        - Gradient Boosting.
+        - XGBoost.
+        - CatBoost.
+- `Домашнее задание <https://forms.gle/bhSrzu56wVJAnqBj8>`_:
+    - Реализовать комитетный бустинг для задачи регрессии.
+
 
