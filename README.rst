@@ -46,6 +46,11 @@ Machine Learning Seminars
         - Учитывается полнота отчета.
 - `Ссылка для сдачи задания <https://forms.gle/8PPgphST2NarFnbm9>`_.
 
+Второе задание:
+--------------
+- Дедлайн: 23:59 17.12.2020.
+- `Ссылка на задание <https://www.kaggle.com/c/fall-ml2-mipt-2020/overview>`_.
+- `Ссылка для сдачи оформленного решения <https://forms.gle/jSc8jk8qNpWWgKCD6>`_.
 План занятий
 ============
 
