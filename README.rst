@@ -13,6 +13,7 @@ Machine Learning Seminars
 - `Курс лекций К.В. Воронцова. <http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29>`_
 - `Плейлист лекций и семинаров. <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_ 
 - `Ссылка в zoom для лекции и семинара. <https://zoom.us/j/99420956580?pwd=N0xsRFVTZ0habGpwd3B4azRkL3dyQT09>`_
+- `Почта для связи. <grabovoy.av@phystech.edu>`_
 
 Весений семест
 ==============
