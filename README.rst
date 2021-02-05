@@ -29,6 +29,7 @@ Machine Learning Seminars
 - `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem15/main.ipynb>`_:
     - Практическая часть:
         - Сверточные нейронные сети.
+        - Отслеживание обучения при помощи tensorboard.
         - Рекурентные нейронные сети.
         - Использование предобученных моделей.
         - Интерпретируемость ответов нейросети.
