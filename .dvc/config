@@ -1,0 +1,4 @@
+[core]
+    remote = seminars
+['remote "seminars"']
+    url = gdrive://1Lzeboye-cFzzpsznLDsl8yh15PVtaxGC
