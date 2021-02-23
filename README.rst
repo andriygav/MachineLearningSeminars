@@ -2,11 +2,6 @@
 Machine Learning Seminars
 #########################
 
-Объявление
-==========
-
-- Первое домашнее задание будет доступно начиная с 00:00 22.02.2021
-
 Полезные ссылки
 ===============
 - `Курс Мурата Апишева по python. <https://github.com/MelLain/mipt-python>`_
@@ -23,7 +18,9 @@ Machine Learning Seminars
 
 Первое задание:
 ************************************************
-- Дедлайн: 23:59 05.03.2021.
+- Дедлайн: 23:59 12.03.2021.
+- Задание доступно по `ссылке <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/task2-1/>`.
+- Ссылка для сдачи задания `тут <https://forms.gle/Pk2TwHsBp9LWc2Ja6>`_.
 
 План занятий
 ------------
@@ -70,7 +67,7 @@ Machine Learning Seminars
 ************************************************
 - Дедлайн: 23:59 18.10.2020.
 - `Ссылка для сдачи задания <None>`_.
-- `Генератор задания <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/generator.ipynb>`_:
+- `Генератор задания <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/task1-1/generator.ipynb>`_:
     - В качестве почты нужно ввести почту в домене @phystech.edu.
     - После ввода почты, вам будет предложена выборка с ссылкой для скачивания, а также методы, которые нужно проанализировать для данной выборки.
 - Требуется:
