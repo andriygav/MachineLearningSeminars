@@ -24,7 +24,7 @@ Machine Learning Seminars
 Первое задание:
 ************************************************
 - Дедлайн: 23:59 12.03.2021.
-- Задание доступно по `ссылке <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/task2-1/>`.
+- Задание доступно по `ссылке <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/task2-1/>`_.
 - Ссылка для сдачи задания `тут <https://forms.gle/Pk2TwHsBp9LWc2Ja6>`_.
 
 План занятий
