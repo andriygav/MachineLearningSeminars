@@ -61,6 +61,17 @@ Machine Learning Seminars
         - Word2Vec (на основе модели FastText).
         - FastText модель (сжатая до emb-dim=10 для легковестности).
         - Задачи для unsupervise training моделей векторизации.
+        
+Attention is all you need. Трансформеры.
+*******************************************************************************
+- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem18/main.ipynb>`_:
+    - Практическая часть:
+        - Модель внимания в рекурентных нейронных сетях.
+        - Трансформеры.
+        - T2T переводчик.
+        - BPE токенизация.
+        - BERT.
+        - LaBSE.
 
 Осений семестр
 ==============
