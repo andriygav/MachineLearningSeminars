@@ -72,6 +72,13 @@ Attention is all you need. Трансформеры.
         - BPE токенизация.
         - BERT.
         - LaBSE.
+        
+Тематическое моделирование.
+*******************************************************************************
+- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem18/main.ipynb>`_:
+    - Практическая часть:
+        - Модель LDA.
+        - Модель PLSA (bigartm).
 
 Осений семестр
 ==============
