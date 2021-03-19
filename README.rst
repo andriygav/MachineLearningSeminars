@@ -91,6 +91,8 @@ Attention is all you need. Трансформеры.
 - `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem20/main.ipynb>`_:
     - Практическая часть:
         - Базовые понятие.
+        - Пример задачи ранжирования.
+        - Пример рекомендательной системы.
         - Обучение поисковика на базе pyserini.
 
 Осений семестр
