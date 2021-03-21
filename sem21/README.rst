@@ -1,0 +1,1 @@
+Все данные доступны по `первой ссылке <https://drive.google.com/drive/folders/14S9rCNynzLtT5jQnKae3X0Xb8ZbCAhsZ?usp=sharing>`_ и `второй ссылке <https://drive.google.com/drive/folders/1mAvMw2eaamN8hDskus1_G8h0HL9zE_xQ?usp=sharing>`_.
