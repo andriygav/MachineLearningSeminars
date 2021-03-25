@@ -95,12 +95,21 @@ Attention is all you need. Трансформеры.
 
 Задача ранжирования.
 *******************************************************************************
-- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem20/main.ipynb>`_:
+- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem21/main.ipynb>`_:
     - Практическая часть:
         - Базовые понятие.
         - Пример задачи ранжирования.
         - Пример рекомендательной системы.
         - Обучение поисковика на базе pyserini.
+        
+Рекомендательные системы.
+*******************************************************************************
+- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem22/main.ipynb>`_:
+    - Практическая часть:
+        - Константная модель.
+        - Кореляционная система.
+        - SLIM.
+        - SVD.
 
 Осений семестр
 ==============
