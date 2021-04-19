@@ -29,7 +29,7 @@ Machine Learning Seminars
 
 Второе задание:
 ************************************************
-- Дедлайн: 23:59 01.04.2021(task 2-2.1); 11.04.2021(task 2-2.2)
+- Дедлайн: Дедлайн 23:59 01.04.2021(task 2-2.1); 11.04.2021(task 2-2.2) 23:59 02.05.2021 (task 2-2.3)
 - Задание доступно по `ссылке <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/task2-2/>`_.
 - Ссылка для сдачи задания `тут <https://forms.gle/J3cqE8CVUUYsvFPy7>`_.
 
