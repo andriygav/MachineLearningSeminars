@@ -141,7 +141,9 @@ Attention is all you need. Трансформеры.
         
 Заключительное заданяти.
 *******************************************************************************
-- Семинар:
+- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem27/main.png>`_:
+	- Теоретическая часть:
+		- Разбор Posterior Sampling
 
 Осений семестр
 ==============
