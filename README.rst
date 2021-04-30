@@ -139,11 +139,11 @@ Attention is all you need. Трансформеры.
         - Активное обучение со случайным добавлчющим элементом.
         - Активное обучение с добавлением элемента с максимальной дисперсией.
         
-Заключительное заданяти.
+Заключительное занятиеи.
 *******************************************************************************
-- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem27/main.png>`_:
-	- Теоретическая часть:
-		- Разбор Posterior Sampling
+- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem27/main.PNG>`_:
+    - Теоретическая часть:
+        - Разбор Posterior Sampling
 
 Осений семестр
 ==============
