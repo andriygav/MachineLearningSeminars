@@ -5,7 +5,7 @@ Machine Learning Seminars
 Объявление
 ==========
 
-- Предварительные оценки за курс по `ссылке <https://docs.google.com/spreadsheets/d/1EN21KTxYQrTylEU1BamP5Za9Tt-NV2czIYGbVsaYk08/edit?usp=sharing>`_.
+- Предварительные оценки за курс по `ссылке <https://docs.google.com/spreadsheets/d/1EN21KTxYQrTylEU1BamP5Za9Tt-NV2czIYGbVsaYk08/edit?usp=sharing>`_. Если кого-то пропустил, не заметил какую-то задачу пожалуйста сообщите.
 
 Полезные ссылки
 ===============
