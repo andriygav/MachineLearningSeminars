@@ -1,6 +1,6 @@
 var Config = {
     title: "Machine Learning Seminars",
-    url: "https://github.com/andriygav/MachineLearningSeminars",
+    url: "https://andriygav.github.io/MachineLearningSeminars/",
     navigation: [
         {
             label: "Home",
