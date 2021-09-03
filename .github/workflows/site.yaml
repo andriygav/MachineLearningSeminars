@@ -33,21 +33,19 @@ jobs:
     # Compile notebooks
     - name: Compile Notebooks
       run: |
-        mkdir ./nb
+        mkdir nb
         jupyter nbconvert --to html --output-dir='./nb' sem*/main.ipynb
         jupyter nbconvert --to slides --output-dir='./nb' sem*/main.ipynb
     
     # install latest notebook classroom app
     - name: Install Notebook-classroom
       run: |
-        wget https://github.com/hydrocode-de/notebook-classroom/releases/latest/download/notebook-classroom.zip
-        unzip notebook-classroom.zip -d dist
+        mv docs dist
     
     # move all neccessary files
     - name: Copy content
       run: |
-        mv ./nb/* ./dist/nb
-        mv docs/configuration.js ./dist/configuration.js
+        mv nb/* dist/nb
         
     - name: Deploy
       uses: crazy-max/ghaction-github-pages@v1
