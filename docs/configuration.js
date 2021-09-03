@@ -8,7 +8,7 @@ var Config = {
             type: "static"
         },
         {
-            label: "Fall Term (Notebooks)",
+            label: "Fall Term Notebooks",
             navigation: [
                 {
                     label: "Introduction",
@@ -97,7 +97,7 @@ var Config = {
             ]
         },
         {
-            label: "Spring Term (Notebooks)",
+            label: "Spring Term Notebooks",
             navigation: [
                 {
                     label: "Deep Neural Networks",
@@ -168,7 +168,7 @@ var Config = {
             ]
         },
         {
-            label: "Fall Term (Presentations)",
+            label: "Fall Term Presentations",
             navigation: [
                 {
                     label: "Introduction",
@@ -229,7 +229,7 @@ var Config = {
             ]
         },
         {
-            label: "Spring Term (Presentations)",
+            label: "Spring Term Presentations",
             navigation: [
                 {
                     label: "Deep Neural Networks",
