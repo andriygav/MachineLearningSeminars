@@ -1,0 +1,58 @@
+# This is a basic workflow to compile and deploy notebook-classroom
+
+name: Notebook-Classrom
+
+# Only run on push to the master branch
+on:
+  push:
+    branches: [ master ]
+
+# Jobs to compile notebook classroom
+jobs:
+  # Publish the application on github pages
+  publish:
+    # use ubuntu
+    runs-on: ubuntu-18.04
+
+    steps:
+    # Checks-out  $GITHUB_WORKSPACE
+    - name: Checkout
+      uses: actions/checkout@v2
+      
+    - name: Setup Python 3.6
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.6
+
+    # install requirements
+    - name: Install requirements
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r docs/requirements.txt
+        
+    # Compile notebooks
+    - name: Compile Notebooks
+      run: |
+        mkdir ./nb
+        jupyter nbconvert --to html --output-dir='./nb' sem*/main.ipynb
+        jupyter nbconvert --to slides --output-dir='./nb' sem*/main.ipynb
+    
+    # install latest notebook classroom app
+    - name: Install Notebook-classroom
+      run: |
+        wget https://github.com/hydrocode-de/notebook-classroom/releases/latest/download/notebook-classroom.zip
+        unzip notebook-classroom.zip -d dist
+    
+    # move all neccessary files
+    - name: Copy content
+      run: |
+        mv ./nb/* ./dist/nb
+        mv docs/configuration.js ./dist/configuration.js
+        
+    - name: Deploy
+      uses: crazy-max/ghaction-github-pages@v1
+      with:
+        target_branch: gh-pages
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
