@@ -14,7 +14,8 @@ var Config = {
                     label: "main",
                     link: "main.html",
                     github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem1/main.ipynb",
-                    binder: "https://mybinder.org/v2/gh/andriygav/MachineLearningSeminars/master?filepath=sem1/main.ipynb"
+                    binder: "https://mybinder.org/v2/gh/andriygav/MachineLearningSeminars/master?filepath=sem1/main.ipynb",
+                    slides: "main.slides.html"
                 }
             ]
         },
@@ -26,10 +27,6 @@ var Config = {
                     link: "main.slides.html"
                 }
             ]
-        },
-        {
-            label: "Exercises",
-            navigation: []
         },
         {
             label: "About",
