@@ -4,7 +4,7 @@ var Config = {
     navigation: [
         {
             label: "Home",
-            link: "index.rst",
+            link: "index.md",
             type: "static"
         },
         {
@@ -26,11 +26,6 @@ var Config = {
                     link: "main.slides.html"
                 }
             ]
-        },
-        {
-            label: "About",
-            link: "about.md",
-            type: "static"
         }
     ]
 };
