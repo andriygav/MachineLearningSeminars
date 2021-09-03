@@ -41,11 +41,7 @@ jobs:
     - name: Install Notebook-classroom
       run: |
         mv docs dist
-    
-    # move all neccessary files
-    - name: Copy content
-      run: |
-        mv nb/* dist/nb
+        mv nb dist/nb
         
     - name: Deploy
       uses: crazy-max/ghaction-github-pages@v1
