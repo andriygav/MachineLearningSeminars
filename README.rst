@@ -3,7 +3,7 @@ Machine Learning Seminars
 #########################
 
 .. include:: docs/advert.rst
-
+   :literal:
 
 Полезные ссылки
 ===============
