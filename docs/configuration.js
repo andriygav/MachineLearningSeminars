@@ -4,7 +4,7 @@ var Config = {
     navigation: [
         {
             label: "Home",
-            link: "index.html",
+            link: "static/index.md",
             type: "static"
         },
         {
@@ -12,9 +12,7 @@ var Config = {
             navigation: [
                 {
                     label: "main",
-                    link: "main.html",
-                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem1/main.ipynb",
-                    binder: "https://mybinder.org/v2/gh/andriygav/MachineLearningSeminars/master?filepath=sem1/main.ipynb"
+                    link: "nb/main.html",
                 }
             ]
         },
@@ -23,7 +21,7 @@ var Config = {
             navigation: [
                 {
                     label: "main",
-                    link: "main.slides.html"
+                    link: "nb/main.slides.html"
                 }
             ]
         },
@@ -33,7 +31,7 @@ var Config = {
         },
         {
             label: "About",
-            link: "about.md",
+            link: "static/about.md",
             type: "static"
         }
     ]
