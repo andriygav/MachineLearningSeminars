@@ -4,7 +4,7 @@ var Config = {
     navigation: [
         {
             label: "Home",
-            link: "index.md",
+            link: "index.rst",
             type: "static"
         },
         {
