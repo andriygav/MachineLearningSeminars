@@ -40,7 +40,13 @@ jobs:
     # install latest notebook classroom app
     - name: Install Notebook-classroom
       run: |
-        mv docs dist
+        wget https://github.com/hydrocode-de/notebook-classroom/releases/latest/download/notebook-classroom.zip
+        unzip notebook-classroom.zip -d dist
+        
+    # install latest notebook classroom app
+    - name: Replace Files
+      run: |
+        cp -r docs/* dist/
         mv nb dist/nb
         
     - name: Deploy
