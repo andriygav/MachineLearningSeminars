@@ -97,6 +97,77 @@ var Config = {
             ]
         },
         {
+            label: "Spring Term (Notebooks)",
+            navigation: [
+                {
+                    label: "Deep Neural Networks",
+                    link: "sem15.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem15/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem15/main.ipynb"
+                },
+                {
+                    label: "Autoencoder",
+                    link: "sem16.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem16/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem16/main.ipynb"
+                },
+                {
+                    label: "Vector representations",
+                    link: "sem17.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem17/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem17/main.ipynb"
+                },
+                {
+                    label: "Attention is all you need",
+                    link: "sem18.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem18/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem18/main.ipynb"
+                },
+                {
+                    label: "Thematic modeling",
+                    link: "sem19.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem19/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem19/main.ipynb"
+                },
+                {
+                    label: "Ranking task",
+                    link: "sem21.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem21/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem21/main.ipynb"
+                },
+                {
+                    label: "Recommender systems",
+                    link: "sem22.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem22/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem22/main.ipynb"
+                },
+                {
+                    label: "Time series",
+                    link: "sem23.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem23/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem23/main.ipynb"
+                },
+                {
+                    label: "Online learning",
+                    link: "sem24.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem24/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem24/main.ipynb"
+                },
+                {
+                    label: "Reinforcement learning",
+                    link: "sem25.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem25/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem25/main.ipynb"
+                },
+                {
+                    label: "Active learning",
+                    link: "sem26.html",
+                    github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem26/main.ipynb",
+                    binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem26/main.ipynb"
+                }
+            ]
+        },
+        {
             label: "Fall Term (Presentations)",
             navigation: [
                 {
@@ -156,6 +227,55 @@ var Config = {
                     link: "sem14.slides.html",
                 }
             ]
-        }
+        },
+        {
+            label: "Spring Term (Presentations)",
+            navigation: [
+                {
+                    label: "Deep Neural Networks",
+                    link: "sem15.slides.html",
+                },
+                {
+                    label: "Autoencoder",
+                    link: "sem16.slides.html",
+                },
+                {
+                    label: "Vector representations",
+                    link: "sem17.slides.html",
+                },
+                {
+                    label: "Attention is all you need",
+                    link: "sem18.slides.html",
+                },
+                {
+                    label: "Thematic modeling",
+                    link: "sem19.slides.html",
+                },
+                {
+                    label: "Ranking task",
+                    link: "sem21.slides.html",
+                },
+                {
+                    label: "Recommender systems",
+                    link: "sem22.slides.html",
+                },
+                {
+                    label: "Time series",
+                    link: "sem23.slides.html",
+                },
+                {
+                    label: "Online learning",
+                    link: "sem24.slides.html",
+                },
+                {
+                    label: "Reinforcement learning",
+                    link: "sem25.slides.html",
+                },
+                {
+                    label: "Active learning",
+                    link: "sem26.slides.html",
+                }
+            ]
+        },
     ]
 };
