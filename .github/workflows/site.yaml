@@ -47,7 +47,7 @@ jobs:
     - name: Replace Files
       run: |
         cp -r docs/* dist/
-        mv nb dist/nb
+        cp -r nb dist/
         
     - name: Deploy
       uses: crazy-max/ghaction-github-pages@v1
