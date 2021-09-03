@@ -19,7 +19,7 @@ var Config = {
             ]
         },
         {
-            "Fall Term (Presentations)",Presentations
+            label: "Fall Term (Presentations)",
             navigation: [
                 {
                     label: "main",
