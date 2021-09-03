@@ -49,12 +49,14 @@ jobs:
         cp -r docs/* dist/
         cp -r nb dist/
 
-     - uses: docker://pandoc/core:2.9
-        with:
-          args: >-  # allows you to break string into multiple lines
-            --standalone
-            --output=dict/static/index.md
-            README.rst
+# install latest notebook classroom app
+    - name: Add Index file
+      uses: docker://pandoc/core:2.9
+      with:
+        args: >-  # allows you to break string into multiple lines
+          --standalone
+          --output=dict/static/index.md
+          README.rst
         
     - name: Deploy
       uses: crazy-max/ghaction-github-pages@v1
