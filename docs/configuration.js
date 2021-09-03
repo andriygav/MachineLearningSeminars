@@ -4,15 +4,15 @@ var Config = {
     navigation: [
         {
             label: "Home",
-            link: "index.md",
+            link: "index.html",
             type: "static"
         },
         {
             label: "First part",
             navigation: [
                 {
-                    label: "sem1",
-                    link: "sem1.html",
+                    label: "main",
+                    link: "main.html",
                     github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem1/main.ipynb",
                     binder: "https://mybinder.org/v2/gh/andriygav/MachineLearningSeminars/master?filepath=sem1/main.ipynb"
                 }
@@ -22,8 +22,8 @@ var Config = {
             label: "Presentations",
             navigation: [
                 {
-                    label: "sem1",
-                    link: "sem1.slides.html"
+                    label: "main",
+                    link: "main.slides.html"
                 }
             ]
         },
