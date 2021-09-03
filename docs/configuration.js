@@ -4,7 +4,7 @@ var Config = {
     navigation: [
         {
             label: "Home",
-            link: "index.md",
+            link: "readme.htlm",
             type: "static"
         },
         {

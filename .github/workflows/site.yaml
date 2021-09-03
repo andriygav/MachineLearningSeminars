@@ -55,7 +55,7 @@ jobs:
       with:
         args: >-  # allows you to break string into multiple lines
           --standalone
-          --output=dist/static/index.md
+          --output=dist/static/readme.htlm
           README.rst
         
     - name: Deploy
