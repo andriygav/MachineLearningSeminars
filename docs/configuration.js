@@ -8,7 +8,7 @@ var Config = {
             type: "static"
         },
         {
-            label: "Fall Term Notebooks",
+            label: "Notebooks",
             navigation: [
                 {
                     label: "Introduction",
@@ -93,12 +93,7 @@ var Config = {
                     link: "sem14.html",
                     github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem14/main.ipynb",
                     binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem14/main.ipynb"
-                }
-            ]
-        },
-        {
-            label: "Spring Term Notebooks",
-            navigation: [
+                },
                 {
                     label: "Deep Neural Networks",
                     link: "sem15.html",
@@ -168,7 +163,7 @@ var Config = {
             ]
         },
         {
-            label: "Fall Term Presentations",
+            label: "Presentations",
             navigation: [
                 {
                     label: "Introduction",
@@ -225,12 +220,7 @@ var Config = {
                 {
                     label: "Clustering methods",
                     link: "sem14.slides.html",
-                }
-            ]
-        },
-        {
-            label: "Spring Term Presentations",
-            navigation: [
+                },
                 {
                     label: "Deep Neural Networks",
                     link: "sem15.slides.html",
