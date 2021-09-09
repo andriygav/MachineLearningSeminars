@@ -5,14 +5,11 @@ Machine Learning Seminars
 Объявление
 ==========
 
-- Курс проходит в онлайн формате по ссылку в `zoom <https://us06web.zoom.us/j/82309900360?pwd=blJDaGU5OERJMkVHSzQyT2RxUEYvUT09>`_.
-- Первая лекция и семинар уже 04.09.2021.
-
 Полезные ссылки
 ===============
-- `Курс Мурата Апишева по python. <https://github.com/MelLain/mipt-python>`_
+- Плейлист лекций и семинаров: `2020-2021 <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_; `2021-2022 <https://youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT>`_
 - `Курс лекций К.В. Воронцова. <http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29>`_
-- `Плейлист лекций и семинаров. <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_ 
+- `Курс Мурата Апишева по python. <https://github.com/MelLain/mipt-python>`_
 - `Ссылка в zoom для лекции и семинара. <https://us06web.zoom.us/s/82309900360?pwd=blJDaGU5OERJMkVHSzQyT2RxUEYvUT09>`_
 - `Почта для связи. <grabovoy.av@phystech.edu>`_
 
