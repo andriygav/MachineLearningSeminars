@@ -21,6 +21,7 @@ Machine Learning Seminars
 
 Первое задание:
 ************************************************
+- Начало: 15:30 25.09.2021
 - Дедлайн: 23:59 17.10.2021.
 - `Ссылка для сдачи задания <None>`_.
 - `Генератор задания <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/task1-1/generator.ipynb>`_:
@@ -54,6 +55,7 @@ Machine Learning Seminars
 
 Второе задание:
 ************************************************
+- Начало: 15:30 25.11.2021.
 - Дедлайн: 23:59 12.12.2021.
 - `Ссылка на задание <https://www.kaggle.com/c/fall-ml2-mipt-2020/overview>`_.
 - `Ссылка для сдачи оформленного решения <None>`_.
