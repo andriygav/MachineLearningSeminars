@@ -5,6 +5,8 @@ Machine Learning Seminars
 Объявление
 ==========
 
+- Таблица с результатами в `google spreadsheets <https://docs.google.com/spreadsheets/d/1taAZjB2MOO30r9ceQJJO4f8UqL4u4CKOloVuDKZP994/edit?usp=sharing>`_.
+
 Полезные ссылки
 ===============
 - Плейлист лекций и семинаров: `2020-2021 <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_; `2021-2022 <https://youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT>`_
