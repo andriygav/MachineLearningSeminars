@@ -83,7 +83,7 @@ var Config = {
                     binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem12/main.ipynb"
                 },
                 {
-                    label: "Bayesian classification",
+                    label: "Density recovery",
                     link: "sem13.html",
                     github: "https://github.com/andriygav/MachineLearningSeminars/blob/master/sem13/main.ipynb",
                     binder: "https://colab.research.google.com/github/andriygav/MachineLearningSeminars/blob/master/sem13/main.ipynb"
@@ -214,7 +214,7 @@ var Config = {
                     link: "sem12.slides.html",
                 },
                 {
-                    label: "Bayesian classification",
+                    label: "Density recovery",
                     link: "sem13.slides.html",
                 },
                 {
