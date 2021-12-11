@@ -6,6 +6,7 @@ Machine Learning Seminars
 ==========
 
 - Таблица с результатами в `google spreadsheets <https://docs.google.com/spreadsheets/d/1taAZjB2MOO30r9ceQJJO4f8UqL4u4CKOloVuDKZP994/edit?usp=sharing>`_.
+- Лекции и семинары в осенем семемтре закончились. Выполняйте домашнее задание. В понедельник (13.12.2021) будут оценки за семестр.
 
 Полезные ссылки
 ===============
