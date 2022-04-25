@@ -276,7 +276,7 @@ Machine Learning Seminars
 ************************************************
 - Дедлайн: 23:59 10.04.2022(task 2-2.1); 24.04.2022(task 2-2.2) 23:59 08.05.2022 (task 2-2.3). Жесткий дедлайн 15.05.2022, каждый день оценка по каждой задаче уменьшается на 0.05.
 - Задание доступно по `ссылке <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/task2-2/>`_.
-- Ссылка для сдачи задания `тут <https://forms.gle/PcLJTSYanEBe5nB69>`_.
+- Ссылка для сдачи задания `тут <https://docs.google.com/forms/d/e/1FAIpQLSewlmKJswZrlK6IL4tXQV0vA9T-41dNSOTk7YIXKn-uepSxpg/viewform?usp=sf_link>`_.
 
 
 План занятий
