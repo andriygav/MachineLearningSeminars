@@ -6,8 +6,9 @@ Machine Learning Seminars
 ==========
 
 - Семинары в весеннем семестре пока будут в дистанционном режиме по ссылке, которая указана ниже.
-- Появились дедлайны по дз. `Ссылка <https://github.com/andriygav/MachineLearningSeminars#курсовое-домашнее-задание-1>`_
-- Предварительный оценки будут 16го мая в 01:00.
+- Появились дедлайны по дз. `Ссылка <https://github.com/andriygav/MachineLearningSeminars#курсовое-домашнее-задание-1>`_.
+- Таблица с результатами (обновляемая). `Ссылка <https://docs.google.com/spreadsheets/d/11OhP2mitTNaWJgrafmUUotJwXz7jLuZjl6_kKAJN610/edit?usp=sharing>`_.
+- Предварительный оценки будут 16го мая.
 
 Полезные ссылки
 ===============
