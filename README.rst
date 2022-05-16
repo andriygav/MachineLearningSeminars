@@ -9,6 +9,12 @@ Machine Learning Seminars
 - Появились дедлайны по дз. `Ссылка <https://github.com/andriygav/MachineLearningSeminars#курсовое-домашнее-задание-1>`_.
 - Таблица с результатами по `ссылке <https://docs.google.com/spreadsheets/d/11OhP2mitTNaWJgrafmUUotJwXz7jLuZjl6_kKAJN610/edit?usp=sharing>`_.
 
+Условие получение зачета
+========================
+- Если оценка отл, то можно получить автомат, об этом нужно написать на `почту <grabovoy.av@phystech.edu>`_, если сообщения не будет, и в день экзамена не будет явки на экзамен, то ставится н/я.
+- Если оценка хор и выше, то можно сдать экзамен досрочно 20.05 после 18:00 (очно либо дистант уточню позже).
+- Если оценка уд и ниже (либо хор, но не был на досроке), то требуется прийти на экзамен и сдать его 15.06 9:00 Б.Физ.
+
 Полезные ссылки
 ===============
 - Плейлист лекций и семинаров: `2020-2021 <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_; `2021-2022 <https://youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT>`_
