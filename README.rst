@@ -8,6 +8,7 @@ Machine Learning Seminars
 - Семинары в весеннем семестре пока будут в дистанционном режиме по ссылке, которая указана ниже.
 - Появились дедлайны по дз. `Ссылка <https://github.com/andriygav/MachineLearningSeminars#курсовое-домашнее-задание-1>`_.
 - Таблица с результатами по `ссылке <https://docs.google.com/spreadsheets/d/11OhP2mitTNaWJgrafmUUotJwXz7jLuZjl6_kKAJN610/edit?usp=sharing>`_.
+- Запись на досрок по `ссылке <https://docs.google.com/spreadsheets/d/1KETnYSfw4jIA0-Me01MgnYLBxQaPACR4HUO1sTgR0rA/edit?usp=sharing>`_.
 
 Условие получение зачета
 ========================
