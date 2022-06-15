@@ -4,7 +4,7 @@ Machine Learning Seminars
 
 Объявление
 ==========
-- Экзамен состоится 9:00 15.06.2022 очно в Б.Физ. По уважительной причине возможно сдать дистанционно в 18:00 15.06.2022 (решается в отдельных случаях, писать на почту).
+- Экзамен состоится 9:00 15.06.2022 очно в Б.Физ. По уважительной причине возможно сдать дистанционно в 18:00 15.06.2022 (решается в отдельных случаях, писать на почту). Дистанцинционный экзамен по `ссылке <https://us06web.zoom.us/j/2140504487?pwd=MWkwRDRIREdUQzZrOVJLekM1ekNGZz09>`_.
 - Таблица с результатами по `ссылке <https://docs.google.com/spreadsheets/d/11OhP2mitTNaWJgrafmUUotJwXz7jLuZjl6_kKAJN610/edit?usp=sharing>`_.
 - Список для подготовки по `ссылке <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem29/sem29.ipynb>`_.
 
