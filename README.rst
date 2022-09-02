@@ -7,7 +7,6 @@ Machine Learning Seminars
 - Плейлист лекций и семинаров: `2020-2021 <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_; `2021-2022 <https://youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT>`_
 - `Курс лекций К.В. Воронцова. <http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29>`_
 - `Курс Мурата Апишева по python. <https://github.com/MelLain/mipt-python>`_
-- `Ссылка в zoom для лекции и семинара. <https://us06web.zoom.us/j/81766985440?pwd=UWdrbk5OYVhFdm1Jczlsc0lpZTBkQT09>`_
 - `Почта для связи. <grabovoy.av@phystech.edu>`_
 
 Осений семестр
