@@ -19,7 +19,7 @@ Machine Learning Seminars
 ************************************************
 - Начало: 15:30 26.09.2022
 - Дедлайн: 23:59 16.10.2022.
-- `Ссылка для сдачи задания <TODO>`_.
+- `Ссылка для сдачи задания <https://docs.google.com/forms/d/e/1FAIpQLSdP2G-5cH6BE6-qUDaVmFXcUeuDbZys7xaxe-YDd80-mbfdBw/viewform?usp=sf_link>`_.
 - `Генератор задания <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/task1-1/generator.ipynb>`_:
     - В качестве почты нужно ввести почту в домене @phystech.edu.
     - После ввода почты, вам будет предложена выборка с ссылкой для скачивания, а также методы, которые нужно проанализировать для данной выборки.
