@@ -4,8 +4,7 @@ Machine Learning Seminars
 
 Информация
 ==========
-- Зачет 16 декабря на лекции и семинаре.
-- Оценки за первое ДЗ и второе ДЗ в `google таблицах <https://docs.google.com/spreadsheets/d/1oTHcimX-heU1WvVrzDehCFN2haIiGuXVVnmxaS7vfJ8/edit?usp=sharing>`_.
+- Первая лекция и семинар в весеннем семестре начнется 10 февраля.
 
 Полезные ссылки
 ===============
