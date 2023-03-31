@@ -103,7 +103,7 @@ P.S.S.S. Сначала выборку нужно привести формат 
 
 Все выводы должны быть представленны в формате tensorboard (каждый набор параметров, свой график, пример --- второй семинар).
 
-P.S. Выборку можно взять из `семинара 17 <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem17/data/dataset.csv.dvc>`_. Пример как использовать DVC для выгрузки данных представлен в `ноутбуке <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem17/main.ipynb>`_.
+P.S. Выборку можно взять из `семинара 17 <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem17/data/dataset.csv.dvc>`_. Пример как использовать DVC для выгрузки данных представлен в `ноутбуке <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem17/main.ipynb>`_. DVC временно не работает, можете взять документы напрямую из `яндекс диска <https://disk.yandex.ru/d/bwUVH8hR1MRNrg>`_.
 
 P.S.S. Рекомендуется использовать предобученый BPE токенизатор для снижения размерности словаря (см. задачу 2).
 
