@@ -75,9 +75,10 @@ P.S.S. Рекомендую посмотреть часть семинара sem
 ----------------------------------------
 
 Требуется построить базовый классификатор машинносгенерированных текстов. Современные методы генерации текстов позволяют генерировать тест, которые трудно отличимы от человеских текстов. В рамках данного задания предлагается реализовать простой метод детекции на базе моделей кодировщика трансформера. В качестве базовых статей предлагается использовать работы (реализовать любую из моделей классификации, указанных в данных работах):
-1. G. M. Gritsay, A. V. Grabovoy, A. S. Kildyakov, and Yu V. Chekhovich. Artificially generated text fragments search in academic documents. Doklady Mathematics, 2024.
-2. G. Gritsay, Andrey Grabovoy, A. Kildyakov, and Yury Chekhovich. Automated text identification: Multilingual transformer-based models approach. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2023), volume 3496 of CEUR Workshop Proceedings, CEUR-WS.org, 2023.
-3. German Gritsay, Andrey Grabovoy, and Yury Chekhovich. Automatic detection of machine generated texts: Need more tokens. In Ivannikov Memorial Workshop Proceedings 2022, 2022.
+
+- G.M. Gritsay, A. V. Grabovoy, A. S. Kildyakov, and Yu V. Chekhovich. Artificially generated text fragments search in academic documents. Doklady Mathematics, 2024.
+- German Gritsay, Andrey Grabovoy, Alexander Kildyakov, and Yury Chekhovich. Automated text identification: Multilingual transformer-based models approach. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2023), volume 3496 of CEUR Workshop Proceedings, CEUR-WS.org, 2023.
+- German Gritsay, Andrey Grabovoy, and Yury Chekhovich. Automatic detection of machine generated texts: Need more tokens. In Ivannikov Memorial Workshop Proceedings 2022, 2022.
 
 Выборки для обучения и тестирования предлагается использовать с соревнования SemEval 2024 (https://github.com/mbzuai-nlp/SemEval2024-task8). В рамках конкурса рассматривались 3 типа задачи: бинарной классификации (machine vs human), мультиклассовой классификации (generative model classification), детекция машинносгенерированного фрагмента в тексте. Данные задачи идут в порядке увеличения сложности, предлагается решать именно как задачу бинарной классификации, но в целом можно решать любую из представленных 3х подзадач.
 
