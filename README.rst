@@ -386,3 +386,16 @@ Attention is all you need. Трансформеры.
 - `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem27/main.ipynb>`_:
     - Теоретическая часть:
         - Разбор Posterior Sampling
+
+
+Дополнительные лекции
+=====================
+
+Список занятий
+---------------
+
+Статистический машинный перевод (прочитан 27.09.2024 на кафедре ММП ВМК МГУ)
+*******************************************************************************
+- `Семинар <https://github.com/andriygav/MachineLearningSeminars/blob/master/sem30/main.ipynb>`_:
+    - Практическая часть:
+        - Статистический машинный перевод при помощи MOSES.
