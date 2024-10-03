@@ -12,7 +12,7 @@ jobs:
   # Publish the application on github pages
   publish:
     # use ubuntu
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
 
     steps:
     # Checks-out  $GITHUB_WORKSPACE
