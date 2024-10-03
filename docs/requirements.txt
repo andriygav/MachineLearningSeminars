@@ -1,3 +1,2 @@
-jupyter
+jupyter==1.0.0
 octave_kernel
-nbclassic
