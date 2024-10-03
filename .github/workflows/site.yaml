@@ -34,8 +34,8 @@ jobs:
     - name: Compile Notebooks
       run: |
         mkdir nb
-        for i in sem*; do jupyter nbconvert --to html --output=$i --output-dir=nb $i/main.ipynb; done
-        for i in sem*; do jupyter nbconvert --to slides --output=$i --output-dir=nb $i/main.ipynb; done
+        for i in sem*; do jupyter nbclassic --to html --output=$i --output-dir=nb $i/main.ipynb; done
+        for i in sem*; do jupyter nbclassic --to slides --output=$i --output-dir=nb $i/main.ipynb; done
     
     # install latest notebook classroom app
     - name: Install Notebook-classroom
