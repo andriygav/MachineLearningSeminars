@@ -19,10 +19,10 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       
-    - name: Setup Python 3.6
+    - name: Setup Python 3.9
       uses: actions/setup-python@v1
       with:
-        python-version: 3.6
+        python-version: 3.9
 
     # install requirements
     - name: Install requirements
