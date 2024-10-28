@@ -5,6 +5,8 @@ Machine Learning Seminars
 Информация
 ==========
 - Начало занятий 02.09.2024.
+- Заполнять текст каждой темы `тут. <https://github.com/andriygav/MLbook>`_ Требуется написать текст выбраной темы(подтемы) и придумать 3 задачи на заданую тему.
+- Запись на `темы MLbook. <https://docs.google.com/spreadsheets/d/1C9Gq2IlK9ozY2bXTXlC4W1DkcGTB5i5nRUlYhOIx6Fc/edit?usp=sharing>`_ Для записи выбрать темы, придумать подтему (на основе лекций/семинаров).
 
 Полезные ссылки
 ===============
