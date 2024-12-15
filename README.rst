@@ -4,7 +4,7 @@ Machine Learning Seminars
 
 Информация
 ==========
-- Начало занятий 02.09.2024.
+- Зачет и получение оценок по курсу 16.12.2024 в 18:30 по расписанию занятий. Ссылка на оценки `тут <https://docs.google.com/spreadsheets/d/1MlGFLJX7Kjf6Lmrstgvu-7_KgLXPKMJzQx7nFvmR1HM/edit?usp=sharing>`_.
 - Заполнять текст каждой темы `тут. <https://github.com/andriygav/MLbook>`_ Требуется написать текст выбраной темы(подтемы) и придумать 3 задачи на заданую тему.
 - Запись на `темы MLbook. <https://docs.google.com/spreadsheets/d/1C9Gq2IlK9ozY2bXTXlC4W1DkcGTB5i5nRUlYhOIx6Fc/edit?usp=sharing>`_ Для записи выбрать темы, придумать подтему (на основе лекций/семинаров).
 
