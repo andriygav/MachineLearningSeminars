@@ -2,17 +2,12 @@
 Machine Learning Seminars
 #########################
 
-Информация
-==========
-- Сдача экзамена будет проходить в 9:00 в следующие даты: 10.01, 11.01, 13.01, 15.01, 16.01. Просьба, если будете сдавать в какой-то из дней сообщите заранее на почту/телеграмм.
-
 Полезные ссылки
 ===============
 - Плейлист лекций и семинаров: `2020-2021 <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_; `2021-2022 <https://youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT>`_
 - `Курс лекций К.В. Воронцова. <http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29>`_
 - `Курс Мурата Апишева по python. <https://github.com/MelLain/mipt-python>`_
 - `Почта для связи. <grabovoy.av@phystech.edu>`_
-- `Группа в тг 2024. <https://t.me/+IDTQVoUaqatmNGYy>`_
 
 Осенний семестр
 ===============
