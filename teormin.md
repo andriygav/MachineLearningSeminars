@@ -139,4 +139,5 @@
 * Какие задачи решает обучение с частичным привлечением учителя (semi-supervised)?  
 * Что такое Transfer Learning? 
 * Что такое "обучение с учителем" (supervised learning)?  
-* Что такое "теория обучения" (bias-variance tradeoff)?  
+* Что такое "теория обучения" (bias-variance tradeoff)?
+* Что такое teacher forcing в RNN?
