@@ -2,6 +2,11 @@
 Machine Learning Seminars
 #########################
 
+Обьявления
+==========
+1. Семинары начнутся с 08.09.2025. Теллеграмм группа с правилами игры: `тык <https://t.me/+-3UJXdA4yLZjMWI6>`_.
+
+
 Полезные ссылки
 ===============
 - Плейлист лекций и семинаров: `2020-2021 <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_; `2021-2022 <https://youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT>`_
